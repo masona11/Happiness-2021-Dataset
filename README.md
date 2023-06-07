@@ -10,7 +10,7 @@ In this project, we aim to analyze the World Happiness Report dataset and explor
 
 ## Dataset
 
-The dataset used for this analysis is the World Happiness Report dataset for the year 2021. It is available in the CSV format and can be found [here](/kaggle/input/world-happiness-report-2021/world-happiness-report-2021.csv). The dataset provides information on happiness scores and various factors contributing to happiness for different countries.
+The dataset used for this analysis is the World Happiness Report dataset for the year 2021. It is available in the CSV format and can be found [here](https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021). The dataset provides information on happiness scores and various factors contributing to happiness for different countries.
 
 ## Files
 
